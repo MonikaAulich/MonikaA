@@ -1,0 +1,34 @@
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\bin\Debug\Gra.exe.config
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\bin\Debug\Gra.exe
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\bin\Debug\Gra.pdb
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\obj\Debug\Gra.csprojAssemblyReference.cache
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\obj\Debug\Gra.FormMain.resources
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\obj\Debug\Gra.Properties.Resources.resources
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\obj\Debug\Gra.csproj.GenerateResource.cache
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\obj\Debug\Gra.csproj.CoreCompileInputs.cache
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\obj\Debug\Gra.exe
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\obj\Debug\Gra.pdb
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\obj\Debug\Gra.FormInstruction.resources
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\bin\Debug\Interop.WMPLib.dll
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\obj\Debug\Interop.WMPLib.dll
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\obj\Debug\Gra.csproj.ResolveComReference.cache
+C:\Users\Monia\Desktop\VS - Kredek\Gra\Gra\obj\Debug\Gra.FormTrueGame.resources
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\bin\Debug\Gra.exe.config
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\bin\Debug\Gra.exe
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\bin\Debug\Gra.pdb
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\bin\Debug\Interop.WMPLib.dll
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\obj\Debug\Gra.csprojAssemblyReference.cache
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\obj\Debug\Interop.WMPLib.dll
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\obj\Debug\Gra.csproj.ResolveComReference.cache
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\obj\Debug\Gra.FormMain.resources
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\obj\Debug\Gra.FormInstruction.resources
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\obj\Debug\Gra.FormTrueGame.resources
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\obj\Debug\Gra.Properties.Resources.resources
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\obj\Debug\Gra.csproj.GenerateResource.cache
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\obj\Debug\Gra.csproj.CoreCompileInputs.cache
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\obj\Debug\Gra.exe
+C:\Users\Monia\Desktop\monika_aulich\VS - Kredek\lab1\Zadanie Domowe\Gra\Gra\obj\Debug\Gra.pdb

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+    <html>
+
+        <head>
+            <meta charset = "utf-8"/> <!--dzięki temu są polskie znaki-->
+
+            <title>Ciekawostki</title> <!--opis na pasku-->
+            <!--Import stylów z CSS-->
+            <link rel="stylesheet" href="styles.css">
+            <!--Favicon-->
+            <link rel="icon" href="Images/Faviconek.jpg" type="image/x-icon">
+
+            <!--Łącznik z Bootstrapem-->
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+            
+        </head>
+
+        <body background="Images/forrest.jpeg">
+ 
+            <section>
+                <!--lista ciekawostek-->
+              <div id="pageSecond">
+                     <ul>
+                        <li>Lasy równikowe są siedliskiem około 40% poznanych lądowych gatunków roślin i zwierząt </li>
+                        <li>Zajmują niespełna 6% powierzchni Ziemi</li>
+                        <li>Nazywane są zielonymi płucami Ziemi</li>
+                        <li>Ze wszystkich ekosystemów lądowych lasy równikowe wytwarzają najwięcej tlenu i pochłaniają najwięcej dwutlenku węgla</li>
+                        <li>Nie wszystkie gatunki zamieszkujące las są poznane, codziennie odkrywa się nowe</li>
+                        <li>Nie ma tam pór roku</li>
+                        <li>Najwyższe tam drzewa osiągają więcej niż 60 metrów wysokości</li>
+                     </ul>
+                     
+                    </div>
+            <!--Przycisk uruchamiający alert-->
+                <div class="card" style="width: 18rem;">
+                        <img src="Images/monkey.jpg" class="card-img-top" alt="monkeys">
+                        <div class="card-body">
+                          <h5 class="card-title">Czasomierz</h5>
+                          <p class="card-text">Działanie człowieka bardzo mocno wpływa na lasy równikowe. Co się dzieje w ciągu 5 sekund?.</p>
+                          <a href="#" class="btn btn-primary" onclick="fiveSeconds()">Włącz licznik i policz do 5</a>
+                        </div>
+                      </div>
+
+                  
+            <!--Przycisk powrotu do strony 1-->          
+            <button type="button" class="btn btn-primary btn-lg btn-block" onclick="goToMenu()">Wróć do strony głównej</button>
+
+      
+        </section>
+             <!--plik JavaScript-->
+             <script src="scripts.js"></script>
+        </body>
+    </html>
