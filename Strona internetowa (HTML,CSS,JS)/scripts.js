@@ -9,7 +9,7 @@ function alertPlay(){
 }
 
 function goToMenu(){
-    window.location.assign("firstpage.html");
+    window.location.assign("index.html");
 }
 
 /*do jQuery - wysuwanie paneli */
